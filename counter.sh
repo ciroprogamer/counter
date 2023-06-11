@@ -1,3 +1,4 @@
+#/!/bin/bash
 if [ "$UID" -eq 0 ]; then 
 	clear 
 	echo "installing requirements" 
